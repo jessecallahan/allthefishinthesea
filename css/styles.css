@@ -1,0 +1,15 @@
+.important {
+  font-family: courier;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.highlight {
+  color: green;
+}
+
+.fish-type {
+  color: gold;
+}
