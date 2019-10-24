@@ -13,3 +13,9 @@
 .fish-type {
   color: gold;
 }
+.my-class {
+  margin: 25%;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
